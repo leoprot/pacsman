@@ -1,0 +1,86 @@
+#time
+{
+z-index: 15;
+height:30px;
+width:30px;
+position:absolute;
+top:35px;
+right:600px;
+}
+
+#time
+{
+z-index: 15;
+height:30px;
+width:30px;
+position:absolute;
+top:35px;
+right:500px;
+}
+
+#trialDataDIV{
+display:none;
+z-index: 10;
+background-color:#C0C0C0;
+height:600px;
+width:800px;
+overflow-y: scroll;
+position:absolute;
+top:10px;
+right:250px;
+text-align:center;
+}
+
+
+#blank{
+display:none;
+z-index: 14;
+background-color:#FFFFFF;
+height:100%;
+width:100%;
+overflow-y: no;
+position:absolute;
+top:0px;
+right:0px;
+text-align:center;
+}
+
+#finalScreen{
+z-index: 20;
+}
+
+#messages{
+display:none;
+z-index: 10;
+background-color:#C0C0C0;
+height:150px;
+width:300px;
+overflow-y: scroll;
+position:absolute;
+top:400px;
+right:450px;
+text-align:center;
+}
+
+#messages2{
+display:none;
+z-index: 10;
+background-color:#C0C0C0;
+height:130px;
+width:300px;
+overflow-y: scroll;
+position:absolute;
+top:80px;
+right:450px;
+}
+
+[name~="DataKey ClickTime"] {
+position:relative;
+width: 100px;
+}
+
+[name~="DataKey"] {
+position:relative;
+width: 80px;
+height:20px;
+}

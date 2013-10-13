@@ -1,0 +1,63 @@
+.stml_btn{
+height:150px;
+width:150px;
+position:absolute;
+float:left;
+background-color:#b0c4de;
+border-style:solid;
+border-width:1px;
+margin-top:10px;
+margin-bottom:10px;
+margin-right:10px;
+margin-left:10px;
+}
+
+.stmImg{
+height:95px;
+width:95px;
+}
+
+#K11 {
+top:20px;
+right:800px;
+}
+
+#K12 {
+top:20px;
+right:500px;
+}
+
+#K13 {
+top:20px;
+right:200px;
+}
+
+#K21 {
+top:220px;
+right:800px;
+}
+
+#K22 {
+top:220px;
+right:500px;
+}
+
+#K23 {
+top:220px;
+right:200px;
+}
+
+#K31 {
+top:420px;
+right:800px;
+}
+
+#K32 {
+top:420px;
+right:500px;
+}
+
+#K33 {
+top:420px;
+right:200px;
+}

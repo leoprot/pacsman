@@ -1,0 +1,159 @@
+{
+    "user" : {
+        "userData" : {
+            "userId" : "u1"
+        },
+        "application" : [{
+                "applicationData" : {
+                    "appId" : "merit1"
+                },
+                "session" : [{
+                        "sessionData" : {},
+                        "trialBlock" : {
+                            "trialBlockData" : {
+                                "layoutId" : [
+                                    "Layout_Id-001"
+                                ],
+                                "assetsId" : [
+                                    "orange",
+                                    "banana"
+                                ]
+                            },
+                            "trial" : [
+                                {
+                                    "number" : 1,
+                                    "layoutId" : "Layout_Id-001",
+                                    "stimKey" : [{
+                                            "id" : "A21",
+                                            "stimId" : "ORANGE",
+                                            "stimFunction" : "Sample"
+                                        }, {
+                                            "id" : "A11",
+                                            "stimId" : "COCONUT",
+                                            "stimFunction" : "S-"
+                                        }, {
+                                            "id" : "A12",
+                                            "stimId" : "BANANA",
+                                            "stimFunction" : "S-"
+                                        }, {
+                                            "id" : "A31",
+                                            "stimId" : "ORANGE",
+                                            "stimFunction" : "S+"
+                                        }
+                                    ],
+                                    "interactions" : {}
+                                },{
+                                    "number" : 1,
+                                    "layoutId" : "Layout_Id-002",
+                                    "stimKey" : [{
+                                            "id" : "A21",
+                                            "stimId" : "ORANGE",
+                                            "stimFunction" : "Sample"
+                                        }, {
+                                            "id" : "A11",
+                                            "stimId" : "COCONUT",
+                                            "stimFunction" : "S-"
+                                        }, {
+                                            "id" : "A12",
+                                            "stimId" : "BANANA",
+                                            "stimFunction" : "S-"
+                                        }, {
+                                            "id" : "A31",
+                                            "stimId" : "ORANGE",
+                                            "stimFunction" : "S+"
+                                        }
+                                    ],
+                                    "interactions" : {}
+                                }, {
+                                    "number" : 1,
+                                    "layoutId" : "Layout_Id-001",
+                                    "stimKey" : [{
+                                            "id" : "A21",
+                                            "stimId" : "ORANGE",
+                                            "stimFunction" : "Sample"
+                                        }, {
+                                            "id" : "A11",
+                                            "stimId" : "COCONUT",
+                                            "stimFunction" : "S-"
+                                        }, {
+                                            "id" : "A12",
+                                            "stimId" : "BANANA",
+                                            "stimFunction" : "S-"
+                                        }, {
+                                            "id" : "A31",
+                                            "stimId" : "ORANGE",
+                                            "stimFunction" : "S+"
+                                        }
+                                    ],
+                                    "interactions" : {}
+                                }, {
+                                    "number" : 1,
+                                    "layoutId" : "Layout_Id-001",
+                                    "stimKey" : [{
+                                            "id" : "A21",
+                                            "stimId" : "ORANGE",
+                                            "stimFunction" : "Sample"
+                                        }, {
+                                            "id" : "A11",
+                                            "stimId" : "COCONUT",
+                                            "stimFunction" : "S-"
+                                        }, {
+                                            "id" : "A12",
+                                            "stimId" : "BANANA",
+                                            "stimFunction" : "S-"
+                                        }, {
+                                            "id" : "A31",
+                                            "stimId" : "ORANGE",
+                                            "stimFunction" : "S+"
+                                        }
+                                    ],
+                                    "interactions" : {}
+                                }, {
+                                    "number" : 1,
+                                    "layoutId" : "Layout_Id-001",
+                                    "stimKey" : [{
+                                            "id" : "A21",
+                                            "stimId" : "ORANGE",
+                                            "stimFunction" : "Sample"
+                                        }, {
+                                            "id" : "A11",
+                                            "stimId" : "COCONUT",
+                                            "stimFunction" : "S-"
+                                        }, {
+                                            "id" : "A12",
+                                            "stimId" : "BANANA",
+                                            "stimFunction" : "S-"
+                                        }, {
+                                            "id" : "A31",
+                                            "stimId" : "ORANGE",
+                                            "stimFunction" : "S+"
+                                        }
+                                    ],
+                                    "interactions" : {}
+                                }, {
+                                    "number" : 2,
+                                    "layoutId" : "Layout_Id-001",
+                                    "stimKey" : [{
+                                            "id" : "A21",
+                                            "stimId" : "LARANJA",
+                                            "stimFunction" : "Sample"
+                                        }, {
+                                            "id" : "A32",
+                                            "stimId" : "MAMAO",
+                                            "stimFunction" : "S-"
+                                        }, {
+                                            "id" : "A11",
+                                            "stimId" : "LARANJA",
+                                            "stimFunction" : "S+"
+                                        }
+                                    ],
+                                    "interactions" : {}
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

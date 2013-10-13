@@ -1,0 +1,73 @@
+.screenDIV{
+position: relative;
+vertical-align: middle;
+width: 800px;
+height:500px;
+border: 2px;
+background-color: rgb(153, 102, 102);
+}
+
+.stml_btn{
+position: absolute;
+height:100px;
+width:100px;
+text-align: center;
+background-color:#FFFFFF;
+border-style:solid;
+border-width:1px;
+}
+
+img.stmImg{
+position: static;
+border: 0px;
+height: 80px;
+width: auto;
+overflow: hidden;
+max-height: 90px;
+max-width: 90px;
+}
+
+#K11 {
+top:10%;
+right:10%;
+}
+
+#K12 {
+top:10%;
+right:43%;
+}
+
+#K13 {
+top:10%;
+right:76%;
+}
+
+#K21 {
+top:43%;
+right:10%;
+}
+
+#K22 {
+top:43%;
+right:43%;
+}
+
+#K23 {
+top:43%;
+right: 76%;
+}
+
+#K31 {
+top:76%;
+right:10%;
+}
+
+#K32 {
+top:76%;
+right:43%ß;
+}
+
+#K33 {
+top:76%;
+right:76%;
+}
